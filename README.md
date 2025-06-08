@@ -106,4 +106,16 @@ Or install individually as listed above.
 | **Validation Accuracy** | ~88% |
 | **Features** | 5,000 TF-IDF features |
 | **Classes** | 6 emotions (sadness, joy, love, anger, fear, surprise) |
+## Screenshots
+![image](https://github.com/user-attachments/assets/deb6f7cf-c778-4c83-8d8d-a3b3d2f464db)
+
+
+![image](https://github.com/user-attachments/assets/a09d4202-d59a-48e2-ae09-a95ea3e829b8)
+
+
+![image](https://github.com/user-attachments/assets/6376332a-419a-4aaa-97dd-e793de72b2bb)
+
+![image](https://github.com/user-attachments/assets/aa8727d6-cee0-417d-9a0c-e21b9494a40d)
+
+
 
